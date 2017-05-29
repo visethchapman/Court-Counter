@@ -6,7 +6,7 @@ Simple android app for basketball score keeper; it gives a user the ability to k
 Building Android app.
 
 ## Screenshots
-![Alt text](/screenshot2.png)
+![Alt text](/screenshot1.png)
 ![Alt text](/screenshot2.png)
 
 ## Reference
